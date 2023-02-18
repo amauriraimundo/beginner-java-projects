@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author amaur
+ *
+ */
+module estoqueProduct {
+}
